@@ -1,6 +1,6 @@
 # Experiments with Adam
 
-This repo contains the scripts used to perfom the experiments in [this blog post](http://fast.ai). If you're using this code or out results, please cite it appropriately. You will find
+This repo contains the scripts used to perfom the experiments in [this blog post](http://www.fast.ai/2018/07/02/adam-weight-decay/). If you're using this code or out results, please cite it appropriately. You will find
 - a script to train [cifar10](https://www.cs.toronto.edu/~kriz/cifar.html) to >94% accuracy in 30 epochs without Test Time Augmentation or 18 with.
 - a script to finetune a pretrained resnet50 on the [Standford cars dataset](https://ai.stanford.edu/~jkrause/cars/car_dataset.html) to 90% accuracy in 60 epochs.
 - a script to train an AWD LSTM (or QRNN) to the same perplexity as [the Saleforce team](https://github.com/salesforce/awd-lstm-lm) that created them but in just 90 epochs.
