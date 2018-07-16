@@ -10,7 +10,8 @@ You will find
 ## Requirements
 
 - the [fastai library](https://github.com/fastai/fastai) is necessary to run all the models. If you didn't pip-install it, don't forget to have a simlink pointing to it in the directory where you clone this repo.
-- additonaly, the QRNNs model requires the [cupy library](https://github.com/cupy/cupy)
+- pytorch 0.4.0 is necessary to have the implementation of amsgrad inside Adam.
+- additonaly, the QRNNs model requires the [cupy library](https://github.com/cupy/cupy).
 
 ## To install
 
