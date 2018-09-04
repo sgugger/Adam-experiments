@@ -1,6 +1,6 @@
 # Experiments with Adam
 
-This repo contains the scripts used to perfom the experiments in [this blog post](http://www.fast.ai/2018/07/02/adam-weight-decay/). If you're using this code or our results, please cite it appropriately. 
+This repo contains the scripts used to perform the experiments in [this blog post](http://www.fast.ai/2018/07/02/adam-weight-decay/). If you're using this code or our results, please cite it appropriately. 
 
 You will find
 - a script to train [cifar10](https://www.cs.toronto.edu/~kriz/cifar.html) to >94% accuracy in 30 epochs without Test Time Augmentation or 18 with.
